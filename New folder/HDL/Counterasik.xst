@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/EMB-16/Documents/ntaps 3EBD4/laporan/New folder/HDL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/EMB-16/Documents/ntaps 3EBD4/laporan/New folder/HDL/xst"
+elaborate
+-ifn Counterasik.prj
+-ifmt mixed

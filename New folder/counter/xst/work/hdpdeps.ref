@@ -1,0 +1,7 @@
+V3 3
+EN work/counterntaps 0 \
+      FL "C:/Users/EMB-16/Documents/ntaps 3EBD4/laporan/New folder/counter/counterntaps.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/counterntaps/Behavioral 0 \
+      FL "C:/Users/EMB-16/Documents/ntaps 3EBD4/laporan/New folder/counter/counterntaps.vhd" \
+      EN work/counterntaps 0
